@@ -26,10 +26,6 @@ npm install
 npm run dev
 ```
 
-## External
-
-Refer to https://github.com/ollama/ollama/blob/main/README.md Configuring Ollama Services.
-
 ## License
 
 Licensed under the [MIT license](https://github.com/nextui-org/next-pages-template/blob/main/LICENSE).
