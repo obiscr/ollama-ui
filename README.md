@@ -22,6 +22,9 @@ npm install
 
 ### Run
 
++ Open the `.env` file to modify the endpoint (if necessary)
++ **Make sure the ollama service is started**
+
 ```bash
 npm run dev
 ```
