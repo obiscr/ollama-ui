@@ -38,7 +38,7 @@ export const Navbar = () => {
 								"data-[active=true]:text-primary data-[active=true]:font-medium"
 							)}
 							color="foreground" target="_blank"
-							href="https://github.com/obiscr/ollama-ui/README.md"
+							href="https://github.com/obiscr/ollama-ui/blob/main/README.md"
 						>
 							Getting Started
 						</NextLink>
