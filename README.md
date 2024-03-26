@@ -2,6 +2,10 @@
 
 Web UI for Ollama GPT
 
+![hello-world](https://github.com/obiscr/ollama-ui/assets/28687074/e44d4bed-659a-4028-9a71-d50f899a59fc)
+
+![settings](https://github.com/obiscr/ollama-ui/assets/28687074/effce1e5-9945-44ef-a34d-760cc117151d)
+
 ## How to Use
 
 > [!TIP]
